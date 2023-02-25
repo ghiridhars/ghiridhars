@@ -10,9 +10,9 @@
 * 🤔 I’m looking for help with scripting languages.
 * 💬 Ask me about anything, I can give some altruistic comments.
 * 📫 How to reach me: 
-  *   [ghiridhars@gmail.com](mailto:ghiridhars@gmail.com)             -  Gmail
-  *   [gary123run](https://twitter.com/gary123run)                    -  Twitter
-  *   [ghiridhars](https://www.linkedin.com/in/ghiridhars/) -  LinkedIn
+  *   Gmail:&emsp;&ensp;[ghiridhars@gmail.com](mailto:ghiridhars@gmail.com)
+  *   Twitter:&emsp;&nbsp;[gary123run](https://twitter.com/gary123run)
+  *   LinkedIn:&ensp;[ghiridhars](https://www.linkedin.com/in/ghiridhars/)
 * ⚡ Fun fact: I am ambidextrous and knows some Espanol.
 ***
 > **Better know nothing than half know many things**\
