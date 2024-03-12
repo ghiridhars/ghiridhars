@@ -1,7 +1,7 @@
 ### Hi! Hola! Hallo! Bonjour! 
 
 ***
-## _Ghiridhar_ here, spelled as *[ g-ih-r-ih-dh-uh-r ]*
+## _Ghiridhar_ here
 
 ***
 * 🔭 I’m currently working on Spring related stuffs. [ mainly backend ] 
