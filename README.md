@@ -5,7 +5,7 @@
 
 ***
 * 🔭 I’m currently working on Spring related stuffs. [ mainly backend ] 
-* 🌱 I’m currently learning RUST and data structures.
+* 🌱 I’m currently learning GO, RUST and data structures.
 * 👯 I’m looking to collaborate on the latest tech that I can incorporate into my skillset.
 * 🤔 I’m looking for help with scripting languages.
 * 💬 Ask me about anything, I can give some altruistic comments.
