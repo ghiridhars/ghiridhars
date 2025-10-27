@@ -18,3 +18,24 @@
 > **Better know nothing than half know many things**\
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-**Friedrich Nietzsche**
 ***
+
+## Technologies I've Worked With
+
+### Languages
+* **Go** - Backend development and learning projects
+* **Java** - Spring Boot microservices, web applications
+* **JavaScript** - Frontend development, React applications
+* **Python** - Flask applications, automation, data science
+* **Rust** - Systems programming and learning
+* **HTML/CSS** - Web development and design
+
+### Frameworks & Tools
+* **Spring Boot & Spring MVC** - Java backend development
+* **React** - Frontend JavaScript framework
+* **Flask** - Python web framework
+* **Microservices Architecture** - Distributed systems design
+* **Netflix OSS** - Microservices infrastructure
+* **JSP** - Java web pages
+* **Git & GitHub** - Version control and collaboration
+
+***
