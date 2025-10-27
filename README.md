@@ -14,7 +14,7 @@
 Spring related stuffs. [ mainly backend ]
 
 **Currently Learning**  
-GO, RUST and data structures.
+Flutter, Gradle development and data structures.
 
 **Looking to Collaborate On**  
 The latest tech that I can incorporate into my skillset.
@@ -25,8 +25,6 @@ Scripting languages.
 **Ask Me About**  
 Anything, I can give some altruistic comments.
 
-**Fun Fact**  
-I am ambidextrous and knows some Espanol.
 
 ---
 
@@ -35,7 +33,6 @@ I am ambidextrous and knows some Espanol.
 | Platform | Contact |
 |----------|---------|
 | **Gmail** | [ghiridhars@gmail.com](mailto:ghiridhars@gmail.com) |
-| **Twitter** | [gary123run](https://twitter.com/gary123run) |
 | **LinkedIn** | [ghiridhars](https://www.linkedin.com/in/ghiridhars/) |
 
 ---
