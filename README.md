@@ -39,8 +39,8 @@ Anything, I can give some altruistic comments.
 
 <div align="center">
 
-> **Better know nothing than half know many things**  
-> — **Friedrich Nietzsche**
+>Better know nothing than half know many things  
+-**Friedrich Nietzsche**
 
 </div>
 
